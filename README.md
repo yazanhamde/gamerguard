@@ -1,5 +1,7 @@
 # GamerGuard، بوت إشراف ذكي للمجتمعات العربية
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yazan%20Hamdi-blue?logo=linkedin)](https://www.linkedin.com/in/yazan-hamdi/)
+
 ## التشغيل
 1. Discord Developer Portal: أنشئ بوت، فعّل **Message Content Intent** و **Server Members Intent**، وادعُه بصلاحية `bot` + `applications.commands`.
 2. `cp .env.example .env` واملأ DISCORD_TOKEN و OPENAI_API_KEY وغيّر DASH_PASSWORD و SECRET_KEY.
@@ -22,4 +24,3 @@
 ---
 
 ## 👨‍💻 المطوّر
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yazan%20Hamdi-blue?logo=linkedin)](https://www.linkedin.com/in/yazan-hamdi/)
